@@ -6,7 +6,7 @@
 
 👨‍💻 I am enthusiastic about learning new technology! Over the past 2 years, I taught myself **Next.js**, **GraphQL**, **Micro-Frontend Architecture** and **Mobile Development**. I also work as a part-time Software Developer at [CASS](https://cass.oregonstate.edu/).
 
-🎸 Outside of tech, I enjoy trying new things. My hobbies range from **volleyball**, **cooking new recipes**, **reading novels**, and **exploring new places**.
+🎸 Outside of work, I enjoy trying new things. My hobbies range from **volleyball**, **cooking new recipes**, **reading novels**, and **exploring new places**.
 
 ## 🏅 Achievements
 
