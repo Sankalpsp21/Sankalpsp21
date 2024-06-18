@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Sankalp Patil, a **Full Stack Web Developer** and a Student at Oregon State University. I am pursuing my Bachelor's in **Computer Science & Engineering** and will graduate in Spring 2025.
+🎓 I am Sankalp Patil, a **Full Stack Web Developer** and a Student at Oregon State University. I am pursuing my Bachelor's in **Computer Science & Engineering** and will graduate in Fall 2025.
 
 👨‍💻 I am enthusiastic about learning new technology! Over the past 2 years, I taught myself **Next.js**, **GraphQL**, **Micro-Frontend Architecture** and **Mobile Development**. I also work as a part-time Software Developer at [CASS](https://cass.oregonstate.edu/).
 
