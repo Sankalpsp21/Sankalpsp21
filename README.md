@@ -1,8 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## 🚀 About Me
-
-🎓 I am Sankalp Patil, a **Full Stack Web Developer**, Researcher, and Student at Oregon State University. I am pursuing my Bachelor's in **Computer Science & Engineering**.
+🎓 I'm Sankalp Patil, a **Full Stack Web Developer**, Researcher, and Student at Oregon State University. I am pursuing my Bachelor's in **Computer Science & Engineering**.
 
 👨‍💻 I am enthusiastic about learning new technology, specifically data engineering, distributed computing, and artificial intelligence. I also work as a part-time Software Developer at [CASS](https://cass.oregonstate.edu/).
 
