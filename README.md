@@ -7,7 +7,7 @@
 ## 🏅 Achievements
 
 -   🏆 **Grand Prize Winner at Cal Hacks 10.0** the world's largest college hackathon ([article](https://engineering.oregonstate.edu/all-stories/oregon-state-team-wins-top-prize-cal-hacks-competition)) (October 2023)
--   🧬 **Published Author in Nature Protocols** for developing a [data pipeline](https://www.nature.com/articles/s41596-024-00960-w) to enhance medical research (March 2023)
+-   🧬 **Published in Nature Protocols** for developing a [data pipeline](https://www.nature.com/articles/s41596-024-00960-w) to enhance medical research (March 2023)
 -   🦫 **2x Winner** at Beaver Hacks (Spring, Fall 2023)
 -   🤝 **3x top 3** for ICPC in Oregon (Winter 2022, 2023, 2024)
 
