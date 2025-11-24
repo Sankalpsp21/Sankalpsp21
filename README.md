@@ -1,8 +1,10 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-🎓 I'm Sankalp Patil, a **Full Stack Web Developer**, **Researcher**, and **Student** at Oregon State University. I am pursuing my Bachelor's in **Computer Science**.
+🎓 I'm Sankalp Patil, a **Software Engineer** currently working at AWS's [Web Application Firewall](https://aws.amazon.com/waf/) team.
 
-👨‍💻 I am enthusiastic about learning new technology, specifically **Distributed Systems**, **Data Engineering**, and **Artificial Intelligence**. I also work as a part-time Software Developer at [CASS](https://cass.oregonstate.edu) and have done internships at [Amazon Web Services](https://aws.amazon.com) and [Dell Technologies](https://www.dell.com/en-us).
+👨‍💻 I am enthusiastic about learning new technology, specifically **Distributed Systems**, **Data Engineering**, and **Artificial Intelligence**. 
+
+I did my undergrad at ORegon state University (go beavs) where I worked as a part-time Software Developer at [CASS](https://cass.oregonstate.edu) and completed internships at [Amazon Web Services](https://aws.amazon.com) and [Dell Technologies](https://www.dell.com/en-us).
 
 ## 🔗 Links
 
